@@ -44,4 +44,4 @@ Este projeto mostra exatamente como essa jornada acontece: Do Bot criado, da men
 ## Melhorias:
 
 Melhoria mapeada para implantação em roadmap:
-  - Ingestão de outros formatos além do texto, como imagens e aúdios compartilhados no grupo.
+  - Ingestão de outros formatos além do texto, como imagem e áudio compartilhados no grupo.
